@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "forzar_actualizacion": true,
+  "forzar_actualizacion": false,
   "url_script": "https://raw.githubusercontent.com/Basstew/P2PBanca/main/calculadora.py",
   "mensaje": "Hay una actualización obligatoria disponible."
 }
